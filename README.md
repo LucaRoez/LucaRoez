@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I'm an argentinian .NET junior trainee programmer
+## I'm learning full-stack skills but I'm oriented to back-end services
+
+### My current programming handling skills are:
+* ASP.NET framework :white_check_mark:
+* C#, Python, Razor, HTML, CSS, JS, JSON and SQL languages :white_check_mark:
+* OOP and functional programming paradigms :white_check_mark:
+* REST, MVC and Modular Monolith software architectures :white_check_mark:
+* SOLID principles and several design patterns like Dependency Injection :white_check_mark:
+* Web Layout Design, Relational Database Design and Normalization knowledge :white_check_mark:
+* Entity Framework, Dapper and Bootstrap libraries :white_check_mark:
 
 <!--
 **LucaRoez/LucaRoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
