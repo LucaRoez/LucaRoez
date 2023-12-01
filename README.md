@@ -5,8 +5,8 @@
 
 | | | |
 | --- | --- | --- |
-| <img src="https://image.pngaaa.com/393/592393-middle.png" width="250"> | <img src="https://e7.pngegg.com/pngimages/210/105/png-clipart-c-c-computer-programming-javascript-others-miscellaneous-purple.png" width="250"> | <img src="https://clipground.com/images/sql-server-icon-clipart.jpg" width="250"> |
-| <img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" width="250"> | <img src="https://clipartcraft.com/images/html5-logo-transparent-4.png" width="250"> | <img src="http://thebamboocode.com/wp-content/uploads/2016/03/js-logo.png" width="250"> |
+| <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" width="250"> | <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="250"> | <img src="https://logodix.com/logo/1327215.png" width="250"> |
+<img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png">
 
 <label><b>My current programming handling skills are:</b></label>
 <ul>
