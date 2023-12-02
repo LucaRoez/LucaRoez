@@ -3,10 +3,14 @@
 <h3 align="center">I'm learning full-stack skills oriented to a back-end approach</h3>
 </br>
 
+<div align="center">
+  
 | | | |
 | --- | --- | --- |
 | <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" width="250"> | <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="250"> | <img src="https://logodix.com/logo/1327215.png" width="250"> |
 <img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png">
+
+</div>
 
 <label><b>My current programming handling skills are:</b></label>
 <ul>
