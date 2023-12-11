@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋 I'm Rodríguez Luca</h1>
 <h2 align="center">An argentinian .NET programmer</h2>
-<h3 align="center">Full-Stack skills oriented to back-end</h3>
+<h2 align="center">Full-Stack skills oriented to back-end</h2>
 </br>
 
 <div align="center">
