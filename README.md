@@ -7,8 +7,8 @@
   
 | | | |
 | --- | --- | --- |
-| <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" width="250"> | <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="250"> | <img src="https://logodix.com/logo/1327215.png" width="250"> |
-<img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png">
+| <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" width="150"> | <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="150"> | <img src="https://logodix.com/logo/1327215.png" width="150"> |
+<img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png" width="530">
 
 </div>
 
